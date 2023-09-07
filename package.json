@@ -1,0 +1,18 @@
+{
+  "name": "productstheme",
+  "version": "1.0.0",
+  "description": "A product theme for a  e-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omomoh Agiogu",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.65.1"
+  }
+}

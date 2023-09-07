@@ -1,0 +1,18 @@
+/*
+Theme Name: Products Theme 
+Theme URI: 
+Author: Omomoh Agiogu
+Author URI: 
+Description: A product theme for a  e-commerce website.
+Version: 1.0
+Text Domain: product-theme-text-domain
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Reset and normalize styles */
+body, div, p, h1, h2, h3, h4, h5, h6, ul, ol, li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
