@@ -1,4 +1,5 @@
-Custom WordPress WooCommerce Theme
+#Custom WordPress WooCommerce Theme
+
 This repository contains a custom WordPress WooCommerce theme built from scratch, designed to closely match a PSD (Photoshop) file. The theme incorporates HTML, SCSS, advanced custom fields, and PHP to create a fully functional and visually appealing online store.
 
 Features
